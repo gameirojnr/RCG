@@ -1,0 +1,24 @@
+{
+  "name": "unicorn-react-component",
+  "version": "0.0.3",
+  "description": "React Component Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gameirojnr/unicornReactComponent.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "generator"
+  ],
+  "author": "gameirojnr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gameirojnr/unicornReactComponent/issues"
+  },
+  "homepage": "https://github.com/gameirojnr/unicornReactComponent#readme"
+}
